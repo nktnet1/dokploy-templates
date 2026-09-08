@@ -129,7 +129,6 @@ This document provides essential context for AI models interacting with this pro
   - **Service naming:** MUST match blueprint folder name exactly
   - **Example:**
     ```yaml
-    version: "3.8"
     services:
       ghost:
         image: ghost:6-alpine

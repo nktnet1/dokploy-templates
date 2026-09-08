@@ -38,7 +38,6 @@ To add a new template, follow these steps:
    - Avoid custom networks like `dokploy-network`; Dokploy handles isolation automatically.
    - Example for Grafana:
      ```yaml
-     version: "3.8"
      services:
        grafana:
          image: grafana/grafana-enterprise:9.5.20

@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   rustrak:
     image: abians7/rustrak-server:v0.2.1
